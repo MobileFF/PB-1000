@@ -4,3 +4,7 @@
 ## DFPLMINI.BAS
 
 MP3プレーヤーモジュールのDFPlayer Miniを制御するプログラムです。
+
+## EOF.BAS
+
+UARTにEOF(&H1A)を出力するプログラムです。
